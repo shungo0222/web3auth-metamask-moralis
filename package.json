@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@moralisweb3/next": "^2.18.4",
+    "ethers": "^5.7.2",
+    "moralis": "^2.18.4",
     "next": "13.3.1",
+    "next-auth": "^4.22.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "wagmi": "^0.12.12"
   },
   "devDependencies": {
     "@types/node": "18.16.1",
